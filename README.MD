@@ -1,1 +1,1 @@
-DeepLearning basic work flow
+MY ML RELATED PRACTICES ALL HERE
